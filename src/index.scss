@@ -1,0 +1,96 @@
+/* Some global styles for the app */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.link {
+  color: black;
+}
+
+.link:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.navbar {
+  margin-bottom: 2em;
+}
+
+.backBtn:hover {
+  cursor: pointer;
+  color:rgb(155,155,155);
+}
+
+tr:hover{
+  background-color: rgb(245,245,245);
+  cursor: pointer;
+}
+
+.table{
+  min-width: 450px;
+}
+
+.list-item {
+  border-top: .5px solid lightgrey;
+  padding:1em;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  color: black;
+}
+
+.list-item:hover {
+  background-color: rgb(245,245,245);
+  color: black;
+  text-decoration: none;
+}
+
+.fas.fa-chevron-right {
+  display: flex;
+  vertical-align: middle;
+  margin-left: auto;
+}
+
+.addStockDiv {
+  border:.5px solid rgb(215,215,215);
+  padding: 2em;
+  border-radius: 4px;
+  background-color: rgb(250,250,250);
+}
+
+.fas.fa-trash:hover {
+  cursor: pointer;
+  color:red;
+}
+
+.fas.fa-arrow-right:hover {
+  cursor: pointer;
+  color: green;
+}
+
+@media only screen and (max-width:840px) {
+  .content {
+    padding: 1em;
+  }
+}
+
