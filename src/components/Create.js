@@ -25,7 +25,7 @@ export default class Create extends Component {
 		}
 		
 		// Check if there are 10 (or more) portfolios and cancel the saving if there is
-		if (this.portfolios.length <= 10) {
+		if (this.portfolios.length >= 10) {
 			console.log("Too many portfolios!");
 			alert("Can not create more than 10 portfolios");
 			return;

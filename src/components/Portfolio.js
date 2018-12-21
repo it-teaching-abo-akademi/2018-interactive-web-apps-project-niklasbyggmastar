@@ -120,7 +120,7 @@ export default class Home extends Component {
       if (stockName.length >= 3 && stockName.length <= 4){
         // Get the current portfolio
         let portfolio = this.state.portfolio;
-        if (portfolio.stocks.length <= 50) {
+        if (portfolio.stocks.length >= 50) {
           // Push the stock item to the stocks array in the portfolio if there's less than 50 stock symbols
           portfolio.stocks.push({
             name: stockName,
