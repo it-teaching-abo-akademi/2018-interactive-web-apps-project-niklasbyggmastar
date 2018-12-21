@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/2018-interactive-web-apps-project-niklasbyggmastar/precache-manifest.e49af51d013b35bea35089d8f8d1e2d8.js"
+  "/2018-interactive-web-apps-project-niklasbyggmastar/precache-manifest.65a20bd0d78febd71aa87029aefb3079.js"
 );
 
 workbox.clientsClaim();

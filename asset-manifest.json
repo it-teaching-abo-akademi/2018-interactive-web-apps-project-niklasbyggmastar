@@ -1,7 +1,7 @@
 {
   "main.css": "/2018-interactive-web-apps-project-niklasbyggmastar/static/css/main.ebf4792a.chunk.css",
-  "main.js": "/2018-interactive-web-apps-project-niklasbyggmastar/static/js/main.c74b6b0b.chunk.js",
-  "main.js.map": "/2018-interactive-web-apps-project-niklasbyggmastar/static/js/main.c74b6b0b.chunk.js.map",
+  "main.js": "/2018-interactive-web-apps-project-niklasbyggmastar/static/js/main.36766f31.chunk.js",
+  "main.js.map": "/2018-interactive-web-apps-project-niklasbyggmastar/static/js/main.36766f31.chunk.js.map",
   "static/css/1.2bbbfd63.chunk.css": "/2018-interactive-web-apps-project-niklasbyggmastar/static/css/1.2bbbfd63.chunk.css",
   "static/js/1.50be0ef6.chunk.js": "/2018-interactive-web-apps-project-niklasbyggmastar/static/js/1.50be0ef6.chunk.js",
   "static/js/1.50be0ef6.chunk.js.map": "/2018-interactive-web-apps-project-niklasbyggmastar/static/js/1.50be0ef6.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.2bbbfd63.chunk.css.map": "/2018-interactive-web-apps-project-niklasbyggmastar/static/css/1.2bbbfd63.chunk.css.map",
   "static/css/main.ebf4792a.chunk.css.map": "/2018-interactive-web-apps-project-niklasbyggmastar/static/css/main.ebf4792a.chunk.css.map",
   "index.html": "/2018-interactive-web-apps-project-niklasbyggmastar/index.html",
-  "precache-manifest.e49af51d013b35bea35089d8f8d1e2d8.js": "/2018-interactive-web-apps-project-niklasbyggmastar/precache-manifest.e49af51d013b35bea35089d8f8d1e2d8.js",
+  "precache-manifest.65a20bd0d78febd71aa87029aefb3079.js": "/2018-interactive-web-apps-project-niklasbyggmastar/precache-manifest.65a20bd0d78febd71aa87029aefb3079.js",
   "service-worker.js": "/2018-interactive-web-apps-project-niklasbyggmastar/service-worker.js"
 }
