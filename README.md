@@ -1,1 +1,1 @@
-public/index.html
+https://it-teaching-abo-akademi.github.io/2018-interactive-web-apps-project-niklasbyggmastar/#/
