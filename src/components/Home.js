@@ -15,11 +15,13 @@ export default class Home extends Component {
 	}
 
 	render() {
+		let portfolios = [];
 		// Get stored portfolios if there are any
 		if (typeof (Storage) !== "undefined" && localStorage.length !== 0) {
 			this.portfolios = JSON.parse(localStorage.getItem("portfolios"));
+			portfolios = this.portfolios;
 		}
-		let portfolios = this.portfolios;
+		
 		console.log(portfolios);
 		return (
 			<div>
